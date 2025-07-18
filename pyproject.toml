@@ -61,7 +61,7 @@ dependencies = [
     "numexpr>=2.8.6",
     "qianfan==0.3.5",
     "pgvector>=0.2.3",
-    "pyautogen>=0.2.0",
+    "ag2>=0.2.0",
     "langchain~=0.3.3",
     "langchain-google-genai>=1.0.8",
     "langchain-cohere>=0.1.5",
